@@ -1,0 +1,4 @@
+Resources:
+  RDSDBI1DB2H:
+    Type: 'AWS::RDS::DBInstance'
+    Properties: {}
